@@ -6,7 +6,7 @@ To begin using Prepr, you can find all the information you need in our [develope
 
 ## Nuxt
 - [Quick Start Repo](https://github.com/preprio/nuxt-quick-start) | [Guide](https://docs.prepr.io/connecting-front-end-apps/nuxtjs)
-- [Complete Starter with Personalization](https://github.com/preprio/nuxt-complete-starter)
+- [Complete Starter with Personalization](https://github.com/preprio/nuxt-complete-starter) | [Guide](https://docs.prepr.io/connecting-front-end-apps/nuxt-starter)
 
 
 ## Next.js
