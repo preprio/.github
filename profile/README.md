@@ -19,7 +19,20 @@ To begin using Prepr, you can find all the information you need in our [develope
 - [GraphQL Provider](https://github.com/preprio/laravel-graphql-sdk)
 - [REST Provider](https://github.com/preprio/laravel-rest-sdk)
 
+## React
+- [Quick Start](https://github.com/preprio/react-quick-start)
+
+## Vue
+- [Quick Start](https://github.com/preprio/vue-quick-start)
+
 ## Svelte
 - [Quick Start](https://github.com/preprio/svelte-quick-start)
+
+## Astro
+- [Quick Start](https://github.com/preprio/astro-quick-start)
+
+## API Clients
+- [PHP GraphQL Client](https://github.com/preprio/php-graphql-sdk)
+- [PHP REST Client](https://github.com/preprio/php-rest-sdk)
 
 <img src="https://3f8neni5ytfp.b-cdn.net/4fb86f77-96b9-4933-95eb-ec9586a705f4.svg" align="right">
