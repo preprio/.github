@@ -5,19 +5,19 @@ Welcome to Prepr CMS on GitHub. Prepr is a headless CMS that can be used with yo
 To begin using Prepr, you can find all the information you need in our [developer portal](https://docs.prepr.io/).
 
 ## Nuxt
-- [Quick Start](https://github.com/preprio/nuxt-quick-start) | [Guide](https://docs.prepr.io/connecting-front-end-apps/nuxtjs)
-- [Complete Starter with Personalization](https://github.com/preprio/nuxt-complete-starter) | [Guide](https://docs.prepr.io/connecting-front-end-apps/nuxt-starter)
+- [Quick Start](https://github.com/preprio/nuxt-quick-start) | [Guide](https://docs.prepr.io/connecting-front-end-apps/nuxt-quick-start-guide)
+- [Complete Starter with Personalization](https://github.com/preprio/nuxt-complete-starter) | [Guide](https://docs.prepr.io/connecting-front-end-apps/nuxt-complete-guide)
 
 ## Next.js
-- [Quick Start](https://github.com/preprio/next-quick-start) | [Guide](https://docs.prepr.io/connecting-front-end-apps/nextjs)
-- [Complete Starter with Personalization](https://github.com/preprio/next-complete-starter)
+- [Quick Start](https://github.com/preprio/next-quick-start) | [Guide](https://docs.prepr.io/connecting-front-end-apps/next-quick-start-guide)
+- [Complete Starter with Personalization](https://github.com/preprio/next-complete-starter) | [Guide](https://docs.prepr.io/connecting-front-end-apps/next-complete-guide)
 - [Standard Next.js Blog example](https://github.com/preprio/next.js-blog-example)
 
 ## Laravel
-- [Quick Start](https://github.com/preprio/laravel-quick-start) | [Guide](https://docs.prepr.io/connecting-front-end-apps/laravel)
+- [Quick Start](https://github.com/preprio/laravel-quick-start) | [Guide](https://docs.prepr.io/connecting-front-end-apps/laravel-quick-start-guide)
 - [Complete Starter with Personalization](https://github.com/preprio/laravel-complete-starter)
-- [GraphQL Provider](https://github.com/preprio/laravel-graphql-sdk)
-- [REST Provider](https://github.com/preprio/laravel-rest-sdk)
+- [GraphQL Provider](https://github.com/preprio/laravel-graphql-sdk) | [Guide](https://docs.prepr.io/connecting-front-end-apps/laravel-graphql-provider)
+- [REST Provider](https://github.com/preprio/laravel-rest-sdk) | [Guide](https://docs.prepr.io/connecting-front-end-apps/laravel-rest-provider)
 
 ## React
 - [Quick Start](https://github.com/preprio/react-quick-start)
