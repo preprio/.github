@@ -31,7 +31,8 @@ To begin using Prepr, you can find all the information you need in our [develope
 ## Astro
 - [Quick Start](https://github.com/preprio/astro-quick-start)
 
-## API Clients
+## PHP
+- [Quick Start](https://github.com/preprio/php-quick-start)
 - [PHP GraphQL Client](https://github.com/preprio/php-graphql-sdk)
 - [PHP REST Client](https://github.com/preprio/php-rest-sdk)
 
