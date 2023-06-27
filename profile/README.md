@@ -15,7 +15,7 @@ To begin using Prepr, you can find all the information you need in our [develope
 
 ## Laravel
 - [Quick Start](https://github.com/preprio/laravel-quick-start) | [Guide](https://docs.prepr.io/connecting-front-end-apps/laravel-quick-start-guide)
-- [Complete Starter with Personalization](https://github.com/preprio/laravel-complete-starter)
+- [Complete Starter with Personalization](https://github.com/preprio/laravel-complete-starter) | [Guide](https://docs.prepr.io/connecting-front-end-apps/laravel-complete-guide)
 - [GraphQL Provider](https://github.com/preprio/laravel-graphql-sdk) | [Guide](https://docs.prepr.io/connecting-front-end-apps/laravel-graphql-provider)
 - [REST Provider](https://github.com/preprio/laravel-rest-sdk) | [Guide](https://docs.prepr.io/connecting-front-end-apps/laravel-rest-provider)
 
