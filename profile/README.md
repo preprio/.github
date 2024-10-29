@@ -38,6 +38,6 @@ To begin using Prepr, you can find all the information you need in our [Docs](ht
 - Astro Quick start guide: [GitHub repository](https://github.com/preprio/astro-quick-start) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/astro-quick-start-guide) | [Stackblitz demo](https://stackblitz.com/edit/astro-quick-start)
 
 ## Svelte
-- Svelete Quick start guide: [Github repository](https://github.com/preprio/svelte-quick-start) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/svelte-quick-start-guide) | [Stackblitz demo](https://stackblitz.com/edit/svelte-quick-start)
+- Svelete Quick start guide: [GitHub repository](https://github.com/preprio/svelte-quick-start) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/svelte-quick-start-guide) | [Stackblitz demo](https://stackblitz.com/edit/svelte-quick-start)
 
 <img src="https://3f8neni5ytfp.b-cdn.net/4fb86f77-96b9-4933-95eb-ec9586a705f4.svg" align="right">
