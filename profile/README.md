@@ -1,6 +1,6 @@
 # Hi 👋! Welcome to Prepr CMS
 
-Welcome to Prepr CMS on GitHub. Prepr is a headless CMS that can be used with your favorite front-end framework. Explore our public repos with software development kits (SDKs) and starter projects to help you get started quickly and experience personalization for yourself.
+Welcome to Prepr CMS on GitHub. Prepr is a headless CMS that can be used with your favorite front-end framework. Explore our public repos with software development kits (SDKs) and starter projects to help you get started quickly and experience Adaptive Content® for yourself.
 
 To begin using Prepr, you can find all the information you need in our [Docs](https://docs.prepr.io/).
 
