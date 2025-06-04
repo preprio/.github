@@ -5,7 +5,7 @@ Welcome to Prepr CMS on GitHub. Prepr is a headless CMS that can be used with yo
 To begin using Prepr, you can find all the information you need in our [Docs](https://docs.prepr.io/).
 
 ## Next.js
-
+- Next.js Prepr Package: [GitHub repository](https://github.com/preprio/prepr-nextjs) | [Documentation](https://docs.prepr.io/connecting-a-front-end-framework/nextjs/prepr-nextjs-package)
 - Next.js Quick start guide: [GitHub repository](https://github.com/preprio/next-quick-start) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/next-quick-start-guide) | [Stackblitz demo](https://stackblitz.com/edit/next-quick-start)
 - Complete guide to Next.js and Prepr Personalization: [GitHub repository](https://github.com/preprio/next-complete-starter) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/next-complete-guide)
 - [Standard Next.js Blog example](https://github.com/preprio/next.js-blog-example)
