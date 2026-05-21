@@ -10,6 +10,9 @@ To begin using Prepr, you can find all the information you need in our [Docs](ht
 - Complete guide to Next.js and Prepr Personalization: [GitHub repository](https://github.com/preprio/next-complete-starter) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/next-complete-guide)
 - [Standard Next.js Blog example](https://github.com/preprio/next.js-blog-example)
 
+## Astro
+- Astro Quick start guide: [GitHub repository](https://github.com/preprio/astro-quick-start) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/astro-quick-start-guide) | [Stackblitz demo](https://stackblitz.com/edit/astro-quick-start)
+
 ## Nuxt
 - Nuxt Quick start guide: [GitHub repository](https://github.com/preprio/nuxt-quick-start) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/nuxt-quick-start-guide)| [Stackblitz demo](https://stackblitz.com/edit/nuxt-quick-start)
 - Complete guide to Nuxt and Prepr Personalization: [GitHub repository](https://github.com/preprio/nuxt-complete-starter) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/nuxt-complete-guide)
@@ -20,22 +23,13 @@ To begin using Prepr, you can find all the information you need in our [Docs](ht
 - Laravel GraphQL Provider: [GitHub repository](https://github.com/preprio/laravel-graphql-sdk) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/laravel-graphql-provider)
 - Laravel REST API Provider: [GitHub repository](https://github.com/preprio/laravel-rest-sdk) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/laravel-rest-provider)
 
-## React
-- React Quick start guide: [GitHub repository](https://github.com/preprio/react-quick-start) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/react-quick-start-guide) | [Stackblitz demo](https://stackblitz.com/edit/prepr-react-quick-start)
-
 ## Vue.js
 - Vue.js Quick start guide: [GitHub repository](https://github.com/preprio/vue-quick-start) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/vue-quick-start-guide) | [Stackblitz demo](https://stackblitz.com/edit/vue-quick-start)
-
-## Gatsby
-- Gatsby Quick start guide: [GitHub repository](https://github.com/preprio/gatsby-quick-start) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/gatsby-quick-start-guide) 
 
 ## PHP
 - PHP Quick start guide: [GitHub repository](https://github.com/preprio/php-quick-start) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/php-quick-start-guide)
 - PHP GraphQL SDK: [GitHub repository](https://github.com/preprio/php-graphql-sdk) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/php-graphql-sdk)
 - PHP REST API SDK: [GitHub repository](https://github.com/preprio/php-rest-sdk) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/php-rest-sdk)
-
-## Astro
-- Astro Quick start guide: [GitHub repository](https://github.com/preprio/astro-quick-start) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/astro-quick-start-guide) | [Stackblitz demo](https://stackblitz.com/edit/astro-quick-start)
 
 ## Svelte
 - Svelete Quick start guide: [GitHub repository](https://github.com/preprio/svelte-quick-start) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/svelte-quick-start-guide) | [Stackblitz demo](https://stackblitz.com/edit/svelte-quick-start)
