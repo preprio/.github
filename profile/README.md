@@ -26,9 +26,6 @@ To begin using Prepr, you can find all the information you need in our [Docs](ht
 ## Vue.js
 - Vue.js Quick start guide: [GitHub repository](https://github.com/preprio/vue-quick-start) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/vue-quick-start-guide) | [Stackblitz demo](https://stackblitz.com/edit/vue-quick-start)
 
-## Gatsby
-- Gatsby Quick start guide: [GitHub repository](https://github.com/preprio/gatsby-quick-start) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/gatsby-quick-start-guide) 
-
 ## PHP
 - PHP Quick start guide: [GitHub repository](https://github.com/preprio/php-quick-start) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/php-quick-start-guide)
 - PHP GraphQL SDK: [GitHub repository](https://github.com/preprio/php-graphql-sdk) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/php-graphql-sdk)
