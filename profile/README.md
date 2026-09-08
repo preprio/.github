@@ -5,12 +5,17 @@ Welcome to Prepr CMS on GitHub. Prepr is a headless CMS that can be used with yo
 To begin using Prepr, you can find all the information you need in our [Docs](https://docs.prepr.io/).
 
 ## Next.js
-- Next.js Prepr Package: [GitHub repository](https://github.com/preprio/prepr-nextjs) | [Documentation](https://docs.prepr.io/connecting-a-front-end-framework/nextjs/prepr-nextjs-package)
+- Next.js Prepr Toolkit: [GitHub repository](https://github.com/preprio/prepr-toolkit)
 - Next.js Quick start guide: [GitHub repository](https://github.com/preprio/next-quick-start) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/next-quick-start-guide) | [Stackblitz demo](https://stackblitz.com/edit/next-quick-start)
 - Complete guide to Next.js and Prepr Personalization: [GitHub repository](https://github.com/preprio/next-complete-starter) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/next-complete-guide)
 - [Standard Next.js Blog example](https://github.com/preprio/next.js-blog-example)
 
+## Astro
+- Astro Prepr Toolkit: [GitHub repository](https://github.com/preprio/prepr-toolkit)
+- Astro Quick start guide: [GitHub repository](https://github.com/preprio/astro-quick-start) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/astro-quick-start-guide) | [Stackblitz demo](https://stackblitz.com/edit/astro-quick-start)
+
 ## Nuxt
+- Nuxt Prepr Toolkit: [GitHub repository](https://github.com/preprio/prepr-toolkit)
 - Nuxt Quick start guide: [GitHub repository](https://github.com/preprio/nuxt-quick-start) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/nuxt-quick-start-guide)| [Stackblitz demo](https://stackblitz.com/edit/nuxt-quick-start)
 - Complete guide to Nuxt and Prepr Personalization: [GitHub repository](https://github.com/preprio/nuxt-complete-starter) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/nuxt-complete-guide)
 
@@ -20,24 +25,16 @@ To begin using Prepr, you can find all the information you need in our [Docs](ht
 - Laravel GraphQL Provider: [GitHub repository](https://github.com/preprio/laravel-graphql-sdk) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/laravel-graphql-provider)
 - Laravel REST API Provider: [GitHub repository](https://github.com/preprio/laravel-rest-sdk) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/laravel-rest-provider)
 
-## React
-- React Quick start guide: [GitHub repository](https://github.com/preprio/react-quick-start) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/react-quick-start-guide) | [Stackblitz demo](https://stackblitz.com/edit/prepr-react-quick-start)
-
 ## Vue.js
 - Vue.js Quick start guide: [GitHub repository](https://github.com/preprio/vue-quick-start) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/vue-quick-start-guide) | [Stackblitz demo](https://stackblitz.com/edit/vue-quick-start)
-
-## Gatsby
-- Gatsby Quick start guide: [GitHub repository](https://github.com/preprio/gatsby-quick-start) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/gatsby-quick-start-guide) 
 
 ## PHP
 - PHP Quick start guide: [GitHub repository](https://github.com/preprio/php-quick-start) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/php-quick-start-guide)
 - PHP GraphQL SDK: [GitHub repository](https://github.com/preprio/php-graphql-sdk) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/php-graphql-sdk)
 - PHP REST API SDK: [GitHub repository](https://github.com/preprio/php-rest-sdk) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/php-rest-sdk)
 
-## Astro
-- Astro Quick start guide: [GitHub repository](https://github.com/preprio/astro-quick-start) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/astro-quick-start-guide) | [Stackblitz demo](https://stackblitz.com/edit/astro-quick-start)
-
 ## Svelte
+- Svelte Prepr Toolkit: [GitHub repository](https://github.com/preprio/prepr-toolkit)
 - Svelete Quick start guide: [GitHub repository](https://github.com/preprio/svelte-quick-start) | [Guide documentation](https://docs.prepr.io/connecting-front-end-apps/svelte-quick-start-guide) | [Stackblitz demo](https://stackblitz.com/edit/svelte-quick-start)
 
 <img src="https://3f8neni5ytfp.b-cdn.net/4fb86f77-96b9-4933-95eb-ec9586a705f4.svg" align="right">
