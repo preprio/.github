@@ -1,0 +1,41 @@
+name: Composer Build
+
+on:
+  workflow_call:
+    inputs:
+      php-version:
+        type: string
+        default: "8.2"
+      run-tests:
+        type: boolean
+        default: true
+      test-command:
+        type: string
+        default: "vendor/bin/phpunit"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: ${{ inputs.php-version }}
+          tools: composer:v2
+          coverage: none
+
+      - name: Validate composer.json
+        run: composer validate --strict
+
+      - name: Install dependencies
+        run: composer install --no-interaction --no-progress --prefer-dist
+
+      - name: Prepare Laravel env
+        run: |
+          cp .env.example .env
+          php artisan key:generate
+
+      - name: Test
+        if: inputs.run-tests
+        run: ${{ inputs.test-command }}
